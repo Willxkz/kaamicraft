@@ -11,9 +11,9 @@
 # ap	          Asia / Pacífico (Singapore)
 # au		      Australia (Sydney)
 # eu		      Europa (Frankfurt)
-# in		      India (Mumbai)2
+# in		      India (Mumbai)
 # jp		      Japón (Tokyo)
-# sa		      Sudamérica (São Paulo)3
+# sa		      Sudamérica (São Paulo)
 # us		      Estados unidos (Ohio)
 # us-cal-1	      Estados unidos (California)
 
