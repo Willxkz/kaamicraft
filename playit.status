@@ -1825,3 +1825,24 @@ comes-wait.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725845471102 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAv1sQAAAZHUZ_-0AAAAAQAAAAEAAAAAAAAAABf1PA_FasMalqpBlWYpfDjUBc0h3MRfDfz_Gn7qnS9F
+
+TUNNELS
+comes-wait.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725845474218 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAv1sQAAAZHUZ_-0AAAAAQAAAAEAAAAAAAAAABf1PA_FasMalqpBlWYpfDjUBc0h3MRfDfz_Gn7qnS9F
+
+TUNNELS
+comes-wait.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1725845477280 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAv1sQAAAZHUZ_-0AAAAAQAAAAEAAAAAAAAAABf1PA_FasMalqpBlWYpfDjUBc0h3MRfDfz_Gn7qnS9F
+
+TUNNELS
+comes-wait.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
